@@ -27,7 +27,7 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
 ### Languages
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,linux,github,mysql" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,linux,github,mysql,mongodb,vue,dotnet" />
 </p>
 
 ---
