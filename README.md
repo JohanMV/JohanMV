@@ -30,6 +30,7 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
     <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,linux,github,mysql,mongodb,postgres,angular,vue,dotnet" />
 </p>
 
+### DataBae
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres />
