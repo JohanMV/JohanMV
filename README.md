@@ -32,7 +32,7 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
 
 ### DataBae
 
-<p align="center">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
