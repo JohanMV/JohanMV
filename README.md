@@ -1,9 +1,9 @@
-# Hi, I'm Johan MV ✌🏻🙃 <h4>Cybersecurity Professional</h4>
+# Hi, I'm Johan MV ✌🏻🙃 Cybersecurity Professional
 
 ![cool gif](https://github.githubassets.com/images/mona-whisper.gif)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it+programming+.+.+.)](https://git.io/typing-svg)
 
 ---
-I'm a Software Engineering. I'm very interested in cybersecurity and artificial intelligence. 
+Software Engineer specializing in **Cybersecurity** and **Databases**.
 
 I'm an empathetic and enthusiastic person, with competencies focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and constantly improve myself.  
 
@@ -11,45 +11,27 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
 
 ## About me
 
-- ⭐ Hi, I'm Johan  
+- ⭐ Software Engineer from Lima, Peru.
 - 🧑‍💻 Hands-on experience in **security audits**, **pentesting** and compliance with standards like **ISO 27001 and CIS**
-- 🖥️ I'm currently learning Front End and Backend
 - ⚡ Interested in system security, Ethical Hacking, and Machine Learning.
 - 🐧 Linux enthusiast and infrastructure security advocate.
 <br>
 <p>
-<a href="https://www.instagram.com/johan_mv2000/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.linkedin.com/in/johan-ra%C3%BAl-moreno-vergara-82953620b/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/johan-mv/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ---
 
-### Languages
+### Cybersecurity & Auditing
+`Kali Linux`, `Nmap`, `Nessus`, `Metasploit`, `Wireshark`, `Burp Suite`, `Autopsy`
 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,angular,vue,dotnet,github,linux," />
-</p>
+### Operating Systems & Databases
+`Windows Server`, `Linux`, `SQL Server`, `Oracle Database`, `MySQL`, `MongoDB`, `PostgreSQL`
 
-### DataBase
+### **Methodologies**
+`Agile`, `Scrum`, `Kanban`, `ISO 27001 / 27002`
 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
-
-### Herramientas de Ciberseguridad
-<p align="left">
-    <img src="https://img.shields.io/badge/Kali_Linux-5C4258?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" height="30px" />
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/9282768135367990072_0" alt="Nmap" height="40px" />
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/11044039545293732926_0" alt="Metasploit" height="40px" />
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/10140836650276383547_0" alt="Wireshark" height="40px" />
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/5790572436828431332_0" alt="Burp Suite" height="40px" />
-</p>
-
-### **Cloud y Automatización**
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,powerbi" />
-</p>
-
-
+### **Languages & Automation**
+`Python`, `Java`, `C++`, `SQL`, `Power BI`, `Excel`
 
 ---
