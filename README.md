@@ -33,3 +33,13 @@ I have hands-on experience in IT audits, data management, SQL queries and report
 | **AI & Analytics** | `Machine Learning`, `Deep Learning`, `Process Mining` |
 
 ---
+## Featured Projects
+
+- **[Internal Network Vulnerability Analysis](https://github.com/JohanMV/vulnerability-analysis-lab)**
+  - A security lab to identify and mitigate vulnerabilities on an internal network using tools like Nmap.
+
+- **[Custom Firewall with UFW and IPTables](https://github.com/JohanMV/firewall-linux-ufw-iptables?tab=readme-ov-file#-english)**
+  - A project demonstrating the configuration of advanced firewall rules on Linux to improve system security.
+
+---
+
