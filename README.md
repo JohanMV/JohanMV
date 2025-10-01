@@ -1,11 +1,11 @@
-# Hi, I'm Johan MV ✌🏻🙃 Cybersecurity Professional
+# Hi, I'm Johan MV ✌🏻🙃 
 
 ![cool gif](https://github.githubassets.com/images/mona-whisper.gif)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Cybersecurity+Professional+.+.+.)](https://git.io/typing-svg)
 
 ---
 Software Engineer specializing in **Cybersecurity** and **Databases**.
 
-I'm an empathetic and enthusiastic person, with competencies focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and constantly improve myself.  
+Software Engineer specializing in **Cybersecurity** and **Databases**. I have hands-on experience in **IT audits**, data management, **SQL queries and reporting**, and **vulnerability analysis.
 
 ---
 
