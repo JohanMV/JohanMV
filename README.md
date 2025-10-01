@@ -21,21 +21,31 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
 </p>
 
 ---
+## Habilidades Técnicas
 
-## Cybersecurity & Auditing
+### Cybersecurity & Auditing
 
 `Kali Linux`, `Nmap`, `Nessus`, `Metasploit`, `Wireshark`, `Burp Suite`, `Autopsy`
 
-## Operating Systems & Databases
+### Operating Systems & Databases
 
 `Windows Server`, `Linux`, `SQL Server`, `Oracle Database`, `MySQL`, `MongoDB`, `PostgreSQL`
 
-## **Methodologies**
+### **Methodologies**
 
 `Agile`, `Scrum`, `Kanban`, `ISO 27001 / 27002`
 
-## **Languages & Automation**
+### **Languages & Automation**
 
 `Python`, `Java`, `C++`, `SQL`, `Power BI`, `Excel`
+
+| **Categoría** | **Habilidades** |
+| :--- | :--- |
+| **Cybersecurity** | `Kali Linux`, `Nmap`, `Nessus`, `Metasploit`, `Wireshark`, `Burp Suite`, `Autopsy` |
+| **Cloud & Infrastructure** | `AWS`, `Azure`, `GCP`, `Docker`, `VMware` |
+| **Operating Systems & Databases** | `Windows Server`, `Linux`, `SQL Server`, `Oracle Database`, `MySQL`, `MongoDB`, `PostgreSQL` |
+| **Languages & Automation** | `Python`, `Java`, `C++`, `SQL`, `Power BI`, `Celonis EMS`, `Excel` |
+| **Methodologies** | `Agile`, `Scrum`, `Kanban`, `ISO 27001`, `ISO 27002` |
+| **AI & Analytics** | `Machine Learning`, `Deep Learning`, `Process Mining` |
 
 ---
