@@ -5,7 +5,7 @@
 ---
 Software Engineer specializing in **Cybersecurity** and **Databases**.
 
-Software Engineer specializing in **Cybersecurity** and **Databases**. I have hands-on experience in **IT audits**, data management, **SQL queries and reporting**, and **vulnerability analysis.
+I have hands-on experience in IT audits, data management, SQL queries and reports, and vulnerability analysis. I also ensure compliance with security standards like CIS in Microsoft environments (Windows Server and SQL Server). I have participated in key projects and obtained certifications in cybersecurity, cloud computing, and databases.
 
 ---
 
