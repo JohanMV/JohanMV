@@ -1,9 +1,10 @@
-# Hi, I'm Johan MV ✌🏻🙃
+# Hi, I'm Johan MV ✌🏻🙃 
+<h3 style="color: #31479E;">Cybersecurity Professional</h3>
 
 ![cool gif](https://github.githubassets.com/images/mona-whisper.gif)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it+programming+.+.+.)](https://git.io/typing-svg)
 
 ---
-I'm a Software Engineering student and I am very interested in cybersecurity and artificial intelligence. 
+I'm a Software Engineering. I'm very interested in cybersecurity and artificial intelligence. 
 
 I'm an empathetic and enthusiastic person, with competencies focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and constantly improve myself.  
 
@@ -12,10 +13,10 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
 ## About me
 
 - ⭐ Hi, I'm Johan  
-- 🧑‍💻 Software engineer student from Lima, Peru
+- 🧑‍💻 Hands-on experience in **security audits**, **pentesting** and compliance with standards like **ISO 27001 and CIS**
 - 🖥️ I'm currently learning Front End and Backend
-- ⚡ I'm interested Cybersecurity & Machine Learning
-- 🐧 Linux hobbyist
+- ⚡ Interested in system security, Ethical Hacking, and Machine Learning.
+- 🐧 Linux enthusiast and infrastructure security advocate.
 <br>
 <p>
 <a href="https://www.instagram.com/johan_mv2000/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
