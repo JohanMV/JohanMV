@@ -36,4 +36,20 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
+### Herramientas de Ciberseguridad
+<p align="left">
+    <img src="https://img.shields.io/badge/Kali_Linux-5C4258?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" height="30px" />
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/9282768135367990072_0" alt="Nmap" height="40px" />
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/11044039545293732926_0" alt="Metasploit" height="40px" />
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/10140836650276383547_0" alt="Wireshark" height="40px" />
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/5790572436828431332_0" alt="Burp Suite" height="40px" />
+</p>
+
+### **Cloud y Automatización**
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,powerbi" />
+</p>
+
+
+
 ---
