@@ -21,9 +21,9 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
 </p>
 
 ---
-## Habilidades Técnicas
+## Technical Skills
 
-| **Categoría** | **Habilidades** |
+| **Category** | **Skills** |
 | :--- | :--- |
 | **Cybersecurity** | `Kali Linux`, `Nmap`, `Nessus`, `Metasploit`, `Wireshark`, `Burp Suite`, `Autopsy` |
 | **Cloud & Infrastructure** | `AWS`, `Azure`, `Google Cloud`, `Docker`, `VMware` |
