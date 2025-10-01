@@ -26,8 +26,8 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
 | **Categoría** | **Habilidades** |
 | :--- | :--- |
 | **Cybersecurity** | `Kali Linux`, `Nmap`, `Nessus`, `Metasploit`, `Wireshark`, `Burp Suite`, `Autopsy` |
-| **Cloud & Infrastructure** | `AWS`, `Azure`, `Google Cloud`, `Docker` |
-| **Operating Systems & Databases** | `Windows Server`, `Linux`, `SQL Server`, `Oracle Database`, `MySQL`, `VMware` |
+| **Cloud & Infrastructure** | `AWS`, `Azure`, `Google Cloud`, `Docker`, `VMware` |
+| **Databases** | `Windows Server`, `SQL Server`, `Oracle Database`, `MySQL` |
 | **Languages & Automation** | `Python`, `Java`, `C++`, `SQL`, `Power BI`, `Excel` |
 | **Methodologies** | `Agile`, `Scrum`, `Kanban`, `ISO 27001/27002` |
 | **AI & Analytics** | `Machine Learning`, `Deep Learning`, `Process Mining` |
