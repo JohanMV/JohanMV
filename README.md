@@ -23,29 +23,13 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
 ---
 ## Habilidades Técnicas
 
-### Cybersecurity & Auditing
-
-`Kali Linux`, `Nmap`, `Nessus`, `Metasploit`, `Wireshark`, `Burp Suite`, `Autopsy`
-
-### Operating Systems & Databases
-
-`Windows Server`, `Linux`, `SQL Server`, `Oracle Database`, `MySQL`, `MongoDB`, `PostgreSQL`
-
-### **Methodologies**
-
-`Agile`, `Scrum`, `Kanban`, `ISO 27001 / 27002`
-
-### **Languages & Automation**
-
-`Python`, `Java`, `C++`, `SQL`, `Power BI`, `Excel`
-
 | **Categoría** | **Habilidades** |
 | :--- | :--- |
 | **Cybersecurity** | `Kali Linux`, `Nmap`, `Nessus`, `Metasploit`, `Wireshark`, `Burp Suite`, `Autopsy` |
-| **Cloud & Infrastructure** | `AWS`, `Azure`, `GCP`, `Docker`, `VMware` |
-| **Operating Systems & Databases** | `Windows Server`, `Linux`, `SQL Server`, `Oracle Database`, `MySQL`, `MongoDB`, `PostgreSQL` |
-| **Languages & Automation** | `Python`, `Java`, `C++`, `SQL`, `Power BI`, `Celonis EMS`, `Excel` |
-| **Methodologies** | `Agile`, `Scrum`, `Kanban`, `ISO 27001`, `ISO 27002` |
+| **Cloud & Infrastructure** | `AWS`, `Azure`, `Google Cloud`, `Docker` |
+| **Operating Systems & Databases** | `Windows Server`, `Linux`, `SQL Server`, `Oracle Database`, `MySQL`, `VMware` |
+| **Languages & Automation** | `Python`, `Java`, `C++`, `SQL`, `Power BI`, `Excel` |
+| **Methodologies** | `Agile`, `Scrum`, `Kanban`, `ISO 27001/27002` |
 | **AI & Analytics** | `Machine Learning`, `Deep Learning`, `Process Mining` |
 
 ---
