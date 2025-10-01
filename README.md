@@ -22,19 +22,19 @@ I'm an empathetic and enthusiastic person, with competencies focused on teamwork
 
 ---
 
-### Cybersecurity & Auditing
+## Cybersecurity & Auditing
 
 `Kali Linux`, `Nmap`, `Nessus`, `Metasploit`, `Wireshark`, `Burp Suite`, `Autopsy`
 
-### Operating Systems & Databases
+## Operating Systems & Databases
 
 `Windows Server`, `Linux`, `SQL Server`, `Oracle Database`, `MySQL`, `MongoDB`, `PostgreSQL`
 
-### **Methodologies**
+## **Methodologies**
 
 `Agile`, `Scrum`, `Kanban`, `ISO 27001 / 27002`
 
-### **Languages & Automation**
+## **Languages & Automation**
 
 `Python`, `Java`, `C++`, `SQL`, `Power BI`, `Excel`
 
